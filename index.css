@@ -1,0 +1,36 @@
+
+.nav{
+    padding: 30px 60px 10px 0px;
+    a{
+        font-size: 20px;
+        color: #217a7f;
+    }
+    .dropdown-menu{
+        margin: 15px;
+        background-color: #217a7f;
+        .dropdown-item{
+            color: #fff
+        }
+        
+    }
+}
+.index-hallo{
+    .row{
+        padding: 30px 0;
+        text-align: center;
+    }
+    h1{
+        margin-bottom: 16px;
+        color: #217a7f;
+    }
+    p{
+        letter-spacing: 10px;
+        color: #547577;
+    }
+    img{
+        width: 500px;
+        height: 630px;
+        border-radius: 0px 40px 60px 90px;
+    }
+        
+    }
